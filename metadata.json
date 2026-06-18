@@ -1,0 +1,6 @@
+{
+  "name": "Griô AI: Horizontes da Diáspora",
+  "description": "Narrative Tech-Thriller Histórico e RPG decolonial de investigação cooperativa sobre a rota de Mohammed Gardo Baquaqua.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
